@@ -20,7 +20,7 @@ It involves predicting the species of iris flowers (*setosa*, *versicolor*, *vir
 ##  Project Workflow
 
 1. **Data Collection**  
-   Load the Iris dataset (from `sklearn.datasets` or CSV).
+   Load the Iris dataset (from CSV).
 
 2. **Data Preprocessing**  
    - Handle missing values (if any)  
